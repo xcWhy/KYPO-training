@@ -1,4 +1,4 @@
-name: junior-hacker-sandbox
+name: KYPO-training
 
 hosts:
   - name: attacker
